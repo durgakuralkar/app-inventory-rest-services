@@ -1,0 +1,52 @@
+
+> cloudant_boilerplate_nodejs@0.0.2 start C:\Durga Kuralkar\hertz\BLockchain POC\CloudantAppCode\cloudantappRest
+> node app.js
+
+Express server listening on port 3000
+Could not create new db: my_sample_db, it might already exist.
+validateUserinfo  Invoked..
+Request: {"host":"localhost:3000","connection":"keep-alive","content-length":"31","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36","cache-control":"no-cache","origin":"chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop","postman-token":"ae9798ec-dc3d-4e01-1137-4c3bb2335f43","content-type":"application/x-www-form-urlencoded","accept":"*/*","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9"}
+Body: {"userId":"shittal","password":"shittal"}
+strshittal
+strshittal
+Id: shittal
+validate account dataundefined
+end1
+i2
+len17
+i3
+len17
+i4
+len17
+i5
+len17
+i6
+len17
+i7
+len17
+i8
+len17
+i9
+len17
+i10
+len17
+inside correct loop
+inside correct end
+[0mPOST /api/validateUserinfo [32m200 [0m1799.496 ms - -[0m
+i11
+len17
+i12
+len17
+i13
+len17
+i14
+len17
+i15
+len17
+i16
+len17
+i17
+len17
+i18
+len17
+inside incorrect loop
